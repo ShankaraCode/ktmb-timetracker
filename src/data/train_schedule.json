@@ -1,0 +1,7086 @@
+[
+    {
+        "Train number": 2003,
+        "From": "SENTUL",
+        "To": "PUTRA",
+        "Time": "05:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "PUTRA",
+        "To": "BANK NEGARA",
+        "Time": "05:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "BANK NEGARA",
+        "To": "KUALA LUMPUR ",
+        "Time": "05:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "05:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "05:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "05:39:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "05:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "05:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "05:54:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "06:02:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "06:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "06:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "06:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "06:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "06:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "06:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "07:02:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "07:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "07:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "07:22:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "07:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2003,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG",
+        "Time": "07:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "06:02:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "06:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "06:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "06:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "06:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "06:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "06:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "06:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "06:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "06:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "06:42:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "06:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "06:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "07:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "07:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "07:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "07:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "07:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "07:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "08:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "08:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "08:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "08:22:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2007,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "08:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "06:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "07:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "07:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "07:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "07:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "07:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "07:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "07:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "07:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "07:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "07:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "07:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "07:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "07:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "08:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "08:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2011,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "08:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "07:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "07:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "07:34:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "07:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "07:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "07:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "07:49:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "07:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "07:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "08:05:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "08:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "08:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "08:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "08:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "08:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "08:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "08:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "08:54:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "09:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "09:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "09:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "09:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "09:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "09:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "09:52:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2013,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "10:05:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "07:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "08:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "08:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "08:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "08:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "08:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "08:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "08:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "08:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "08:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "08:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "08:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "08:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "08:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "09:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "09:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "09:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "09:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "09:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "09:51:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "09:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "10:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "10:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2015,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT",
+        "Time": "10:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "08:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "08:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "08:34:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "08:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "08:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "08:49:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "08:52:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "08:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "09:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "09:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "09:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "09:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "09:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2017,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "09:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "08:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "09:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "09:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "09:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "09:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "09:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "09:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "09:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "09:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "09:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "09:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "09:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "09:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "09:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "10:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "10:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2019,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "10:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "09:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "09:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "09:34:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "09:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "09:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "09:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "09:49:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "09:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "09:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "10:05:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "10:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "10:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "10:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "10:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "10:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "10:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "10:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "10:54:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "11:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "11:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "11:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "11:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "11:44:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2021,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "11:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "09:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "10:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "10:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "10:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "10:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "10:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "10:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "10:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "10:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "10:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "10:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "10:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "10:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "10:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "11:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "11:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2025,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "11:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "10:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "11:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "11:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "11:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "11:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "11:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "11:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "11:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "11:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "11:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "11:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "11:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "11:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "11:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "12:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "12:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "12:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "12:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "12:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "12:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "12:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "13:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "13:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2027,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "13:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "12:02:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "12:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "12:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "12:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "12:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "12:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "12:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "12:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "12:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "12:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "12:42:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "12:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "12:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "13:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "13:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "13:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "13:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "13:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "13:42:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "13:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "13:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "14:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "14:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2031,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "14:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "13:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "13:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "13:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "13:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "13:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "13:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "13:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "13:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "13:38:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "13:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "13:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "13:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "14:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "14:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "14:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "14:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2035,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "14:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "14:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "14:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "14:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "14:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "14:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "14:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "14:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "14:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "14:38:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "14:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "14:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "14:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "15:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "15:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "15:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "15:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "15:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "15:34:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "15:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "16:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "16:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "16:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "16:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "16:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "16:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2039,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "16:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "15:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "15:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "15:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "15:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "15:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "15:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "15:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "15:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "15:38:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "15:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "15:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "15:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "16:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "16:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "16:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "16:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2045,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "16:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "16:07:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "16:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "16:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "16:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "16:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "16:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "16:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "16:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "16:38:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "16:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "16:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "16:53:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "17:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "17:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "17:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "17:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "17:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "17:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "17:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "18:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "18:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "18:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "18:22:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "18:27:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "18:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2049,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "18:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "16:52:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "16:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "16:59:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "17:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "17:05:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "17:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "17:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "17:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "17:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "17:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "17:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "17:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "17:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "17:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "18:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "18:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "18:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "18:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "18:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "18:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "18:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "18:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "19:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "19:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "19:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2053,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "19:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "17:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "17:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "17:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "17:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "17:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "18:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "18:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "19:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "19:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "19:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "19:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2603,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "19:44:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "17:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "17:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "17:39:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "17:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "17:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "17:51:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "17:54:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "17:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "18:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "18:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "18:12:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "18:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "18:25:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "18:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "18:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "18:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "18:51:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "18:59:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "19:12:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "19:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "19:25:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "19:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "19:39:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "19:45:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "19:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2057,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "20:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "18:02:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "18:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "18:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "18:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "18:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "18:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "18:24:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "18:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "18:33:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "18:40:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "18:42:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "18:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "18:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "19:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "19:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "19:18:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "19:21:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "19:30:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "19:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "19:49:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "19:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "20:12:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "20:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "20:25:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "SUNGAI GADUT ",
+        "To": "REMBAU ",
+        "Time": "20:31:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2059,
+        "From": "REMBAU ",
+        "To": "PULAU SEBANG ",
+        "Time": "20:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "18:42:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "18:46:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "18:49:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "18:51:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "18:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "19:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "19:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "19:08:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "19:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "19:20:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "19:22:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "19:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "19:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "19:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "20:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "20:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "20:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "20:15:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "20:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "20:34:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "20:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "20:47:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "20:55:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2061,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "21:00:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "19:57:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "20:01:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "20:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "20:06:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "20:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "20:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "20:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "20:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "20:28:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "20:35:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "20:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "20:43:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "20:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "20:58:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "21:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "21:13:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "21:16:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "21:25:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "21:38:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "21:44:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "21:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "22:04:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "22:12:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2063,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "22:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "21:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "21:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "21:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "21:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "21:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "21:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "21:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "21:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "21:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "21:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "21:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "21:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "22:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "22:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "22:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "22:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "22:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "22:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "22:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "22:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "23:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "23:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "23:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2067,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "23:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BATU CAVES ",
+        "To": "TAMAN WAHYU ",
+        "Time": "22:10:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "TAMAN WAHYU ",
+        "To": "KAMPUNG BATU ",
+        "Time": "22:14:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "KAMPUNG BATU ",
+        "To": "BATU KENTONMEN ",
+        "Time": "22:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BATU KENTONMEN ",
+        "To": "SENTUL ",
+        "Time": "22:19:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SENTUL ",
+        "To": "PUTRA ",
+        "Time": "22:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "PUTRA ",
+        "To": "BANK NEGARA ",
+        "Time": "22:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BANK NEGARA ",
+        "To": "KUALA LUMPUR ",
+        "Time": "22:32:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "KUALA LUMPUR ",
+        "To": "KL SENTRAL ",
+        "Time": "22:36:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "KL SENTRAL ",
+        "To": "MIDVALLEY ",
+        "Time": "22:41:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "MIDVALLEY ",
+        "To": "SEPUTEH ",
+        "Time": "22:48:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SEPUTEH ",
+        "To": "SALAK SELATAN ",
+        "Time": "22:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SALAK SELATAN ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "22:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SERDANG ",
+        "Time": "23:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SERDANG ",
+        "To": "KAJANG ",
+        "Time": "23:11:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "KAJANG ",
+        "To": "KAJANG 2 ",
+        "Time": "23:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "KAJANG 2 ",
+        "To": "UKM ",
+        "Time": "23:26:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "UKM ",
+        "To": "BANGI ",
+        "Time": "23:29:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BANGI ",
+        "To": "BATANG BENAR ",
+        "Time": "23:37:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "BATANG BENAR ",
+        "To": "NILAI ",
+        "Time": "23:50:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "NILAI ",
+        "To": "LABU ",
+        "Time": "23:56:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "LABU ",
+        "To": "TIROI ",
+        "Time": "00:03:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "TIROI ",
+        "To": "SEREMBAN ",
+        "Time": "00:09:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SEREMBAN ",
+        "To": "SENAWANG ",
+        "Time": "00:17:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2071,
+        "From": "SENAWANG ",
+        "To": "SUNGAI GADUT ",
+        "Time": "00:23:00",
+        "Trip": "BCPS"
+    },
+    {
+        "Train number": 2002,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "04:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "04:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "05:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "05:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "05:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "05:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "05:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "05:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "05:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "06:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "06:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "06:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "06:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "06:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "06:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "06:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "06:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "06:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "06:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "07:02:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "07:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "07:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "07:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "07:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "07:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2002,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "07:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "05:32:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "05:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "05:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "05:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "05:57:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "06:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "06:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "06:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "06:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "06:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "06:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "06:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "07:02:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "07:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "07:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "07:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "07:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "07:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "07:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "07:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "07:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "07:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "07:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2004,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "07:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "05:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "05:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "05:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "06:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "06:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "06:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "07:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "07:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "07:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "07:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "07:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2602,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "07:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "05:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "05:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "06:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "06:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "06:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "06:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "06:32:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "06:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "06:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "07:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "07:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "07:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "07:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "07:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "07:32:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "07:38:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "07:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "07:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "07:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "07:57:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "08:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "08:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "08:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "08:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "08:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2008,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "08:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "06:02:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "06:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "06:32:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "06:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "06:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "06:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "06:57:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "07:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "07:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "07:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "07:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "07:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "07:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "07:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "08:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "08:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "08:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "08:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "08:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "08:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "08:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "08:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "08:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "08:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "08:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2010,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "08:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "06:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "06:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "07:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "07:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "07:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "07:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "07:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "07:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "07:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "08:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "08:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "08:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "08:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "08:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "08:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "08:43:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "08:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "08:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "08:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "09:02:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "09:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "09:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "09:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "09:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "09:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2012,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "09:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "07:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "07:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "07:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "07:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "08:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "08:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "08:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "08:38:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "08:44:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "08:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "08:50:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "09:02:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "09:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "09:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "09:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "09:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "09:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "09:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "09:38:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "09:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "09:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "09:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "09:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2014,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "09:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "09:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "09:14:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "09:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "09:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "09:32:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "09:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "09:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "09:50:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "09:53:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "10:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "10:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "10:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "10:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "10:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "10:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "10:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2016,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "10:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "09:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "10:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "10:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "10:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "10:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "10:28:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "11:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "11:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "11:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "11:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "11:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "11:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "11:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2018,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "11:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "09:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "09:50:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "09:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "10:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "10:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "10:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "10:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "10:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "10:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "10:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "10:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "11:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "11:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "11:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "11:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "11:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "11:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "11:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "11:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "11:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "11:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "11:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "11:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2020,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "12:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "11:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "11:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "11:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "11:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "11:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "11:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "11:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "11:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "12:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "12:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "12:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "12:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "12:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "12:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "12:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "12:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "13:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "13:14:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "13:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "13:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "13:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "13:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "13:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2024,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "13:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "11:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "11:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "12:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "12:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "12:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "12:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "12:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "12:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "12:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "12:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "13:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "13:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "13:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "13:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "13:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "13:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "13:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "13:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "14:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "14:14:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "14:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "14:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "14:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "14:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "14:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2028,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "14:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "13:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "14:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "14:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "14:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "14:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "14:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "14:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "14:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "14:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "15:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "15:14:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "15:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "15:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "15:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "15:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "15:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2032,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "15:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "14:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "14:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "14:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "14:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "14:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "14:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "14:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "14:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "15:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "15:08:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "15:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "15:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "15:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "15:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "15:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "15:44:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "16:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "16:14:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "16:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "16:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "16:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "16:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "16:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2036,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "16:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "15:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "15:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "15:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "15:29:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "15:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "15:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "15:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "16:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "16:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "16:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "16:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "16:28:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "16:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "16:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "16:47:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "16:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "16:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "17:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "17:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "17:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "17:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "17:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "17:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2040,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "17:22:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "16:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "17:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "17:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "17:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "17:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "17:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "17:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "17:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "17:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "17:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "18:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "18:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "18:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "18:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "18:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "18:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2046,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "18:28:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "16:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "16:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "16:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "16:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "16:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "17:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "17:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "17:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "17:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "17:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "17:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "17:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "17:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "18:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "18:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "18:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "18:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "18:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "18:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "18:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "18:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "18:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "18:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2048,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "18:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "PULAU SEBANG ",
+        "To": "REMBAU ",
+        "Time": "16:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "REMBAU ",
+        "To": "SUNGAI GADUT ",
+        "Time": "16:57:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "17:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "17:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "17:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "17:29:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "17:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "17:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "17:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "18:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "18:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "18:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "18:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "18:28:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "18:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "18:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "18:46:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "18:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "18:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "19:00:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "19:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "19:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "19:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "19:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "19:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2050,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "19:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "18:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "18:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "18:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "19:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "19:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "19:20:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "19:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "19:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "19:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "20:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "20:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "20:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "20:12:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "20:18:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "20:22:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "20:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2054,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "20:26:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "19:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "19:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "19:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "19:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "20:03:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "20:10:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "20:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "20:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "20:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "20:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "20:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "20:39:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "20:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "20:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "20:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "20:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2058,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "20:56:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "19:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "19:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "19:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "19:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "20:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "20:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "20:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "20:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "20:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "20:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "20:54:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "21:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "21:13:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "21:19:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "21:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "21:27:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "21:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "21:38:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "21:42:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "21:45:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "21:51:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "21:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "21:57:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2062,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "21:59:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "20:50:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "20:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "21:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "21:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "21:15:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "21:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "21:31:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "21:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "21:58:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "22:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "22:04:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "22:16:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "22:23:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "22:29:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "22:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "22:37:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "22:44:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "22:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "22:52:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "22:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "23:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "23:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "23:07:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2066,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "23:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SUNGAI GADUT ",
+        "To": "SENAWANG ",
+        "Time": "21:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SENAWANG ",
+        "To": "SEREMBAN ",
+        "Time": "21:35:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SEREMBAN ",
+        "To": "TIROI ",
+        "Time": "21:41:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "TIROI ",
+        "To": "LABU ",
+        "Time": "21:49:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "LABU ",
+        "To": "NILAI ",
+        "Time": "21:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "NILAI ",
+        "To": "BATANG BENAR ",
+        "Time": "22:05:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "BATANG BENAR ",
+        "To": "BANGI ",
+        "Time": "22:11:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "BANGI ",
+        "To": "UKM ",
+        "Time": "22:24:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "UKM ",
+        "To": "KAJANG 2 ",
+        "Time": "22:30:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "KAJANG 2 ",
+        "To": "KAJANG ",
+        "Time": "22:33:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "KAJANG ",
+        "To": "SERDANG ",
+        "Time": "22:36:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SERDANG ",
+        "To": "BANDAR TASEK SELATAN ",
+        "Time": "22:48:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "BANDAR TASEK SELATAN ",
+        "To": "SALAK SELATAN ",
+        "Time": "22:55:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SALAK SELATAN ",
+        "To": "SEPUTEH ",
+        "Time": "23:01:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SEPUTEH ",
+        "To": "MIDVALLEY ",
+        "Time": "23:06:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "MIDVALLEY ",
+        "To": "KL SENTRAL ",
+        "Time": "23:09:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "KL SENTRAL ",
+        "To": "KUALA LUMPUR ",
+        "Time": "23:17:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "KUALA LUMPUR ",
+        "To": "BANK NEGARA ",
+        "Time": "23:21:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "BANK NEGARA ",
+        "To": "PUTRA ",
+        "Time": "23:25:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "PUTRA ",
+        "To": "SENTUL ",
+        "Time": "23:28:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "SENTUL ",
+        "To": "BATU KENTONMEN ",
+        "Time": "23:34:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "BATU KENTONMEN ",
+        "To": "KAMPUNG BATU ",
+        "Time": "23:38:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "KAMPUNG BATU ",
+        "To": "TAMAN WAHYU ",
+        "Time": "23:40:00",
+        "Trip": "PSBC"
+    },
+    {
+        "Train number": 2070,
+        "From": "TAMAN WAHYU ",
+        "To": "BATU CAVES",
+        "Time": "23:42:00",
+        "Trip": "PSBC"
+    }
+]
