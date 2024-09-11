@@ -3,18 +3,9 @@
 import { WeekdaySchedules } from '../schedules/weekdays';
 import { WeekendSchedules } from '../schedules/weekends';
 import { DayType } from '../constants/dayTypes';
-import { train_2003 } from '../schedules/weekends/train_2003';
-import { Station } from '../constants/stations';
-import { TripType } from '../constants/tripType';
-
-/**
- * Maps a string to the corresponding Station enum value.
- * If the string doesn't match any Station, return null.
- */
-export function mapToStation(stationName: string): Station | null {
-  const station = Station[stationName as keyof typeof Station];
-  return station || null;
-}
+// import { train_2003 } from '../schedules/weekends/train_2003';
+// import { TripType } from '../constants/tripType';
+import { normalizeString, stationMap } from '../constants';
 
 /**
  * Get the next available train between two stations at a given time (optional).
@@ -30,8 +21,11 @@ export function getNextTrain({
   date?: string;
 }) {
   // Map string inputs to the Station enum
-  const fromStation = mapToStation(from);
-  const toStation = mapToStation(to);
+  const fromStation = stationMap.get(normalizeString(from));
+  const toStation = stationMap.get(normalizeString(to));
+
+  console.log({fromStation, toStation});
+  
 
   // If either station is invalid, return an error or handle it gracefully
   if (!fromStation || !toStation) {
@@ -48,21 +42,21 @@ export function getNextTrain({
 
   const schedules = dayType === DayType.Weekend ? WeekendSchedules : WeekdaySchedules;
 
-  // Loop through all train schedules and find trains that pass through both the "from" and "to" stations
-  for (const train of schedules) {
-    const fromStopIndex = train.tripSchedule.findIndex(stop => stop.station === fromStation);
-    const toStopIndex = train.tripSchedule.findIndex(stop => stop.station === toStation);
+  // // Loop through all train schedules and find trains that pass through both the "from" and "to" stations
+  // for (const train of schedules) {
+  //   const fromStopIndex = train.tripSchedule.findIndex(stop => stop.station === fromStation);
+  //   const toStopIndex = train.tripSchedule.findIndex(stop => stop.station === toStation);
 
-    // Ensure the train stops at both the "from" and "to" stations and "from" comes before "to"
-    if (fromStopIndex !== -1 && toStopIndex !== -1 && fromStopIndex < toStopIndex) {
-      const fromStop = train.tripSchedule[fromStopIndex];
+  //   // Ensure the train stops at both the "from" and "to" stations and "from" comes before "to"
+  //   if (fromStopIndex !== -1 && toStopIndex !== -1 && fromStopIndex < toStopIndex) {
+  //     const fromStop = train.tripSchedule[fromStopIndex];
 
-      // Check if the departure time from the "from" station is after the specified time
-      if (fromStop.departureTime > currentTime) {
-        return { trainId: train.trainId, fromStop, toStop: train.tripSchedule[toStopIndex] };
-      }
-    }
-  }
+  //     // Check if the departure time from the "from" station is after the specified time
+  //     if (fromStop.departureTime > currentTime) {
+  //       return { trainId: train.trainId, fromStop, toStop: train.tripSchedule[toStopIndex] };
+  //     }
+  //   }
+  // }
 
   // Return null or an empty object if no train is found
   return null;

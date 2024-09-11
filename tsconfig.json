@@ -5,6 +5,7 @@
     "types": [
       "./globals.d.ts"
     ],
+    "resolveJsonModule": true, // Enable importing JSON files
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
