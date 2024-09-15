@@ -4,12 +4,12 @@ import { IGetNextTrainProps, ITrainSchedule } from '../types';
 import { DayType } from '../types';
 import { normalizeString, stationMap, weekdaySchedules, weekendSchedules } from '../constants';
 
+// Mocking
 const now = new Date();
 now.setMinutes(now.getMinutes() + 20);
 const hours = String(now.getHours()).padStart(2, '0');
 const minutes = String(now.getMinutes()).padStart(2, '0');
 const seconds = String(now.getSeconds()).padStart(2, '0');
-
 const formattedTimeNow = `${hours}:${minutes}:${seconds}`;
 
 
@@ -78,21 +78,4 @@ describe('getNextTrain', () => {
     expect(result).toBeNull();
   });
 
-  // test('should default to the current date when no date is provided', () => {
-  //   const mockDate = new Date('2024-09-12T19:00:00');
-  //   jest.spyOn(global, 'Date').mockImplementation(() => mockDate); // Mock current date
-
-  //   const result = getNextTrain({
-  //     from: 'station1',
-  //     to: 'station2',
-  //   });
-
-  //   expect(result).toEqual({
-  //     from_station: 'Station A',
-  //     to_station: 'Station B',
-  //     departure_time: '20:05:00',
-  //   });
-
-  //   jest.restoreAllMocks(); // Restore original Date implementation
-  // });
 });
