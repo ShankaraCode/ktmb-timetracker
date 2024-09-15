@@ -1,0 +1,38 @@
+name: "Run Tests"
+
+on:
+  push:
+    branches:
+      - main
+      - md-feature
+  pull_request:
+    branches:
+      - main
+
+  jobs:
+    test:
+      runs-on: ubuntu-latest
+
+      strategy:
+        matrix:
+          node-version: [14.x, 16.x, 18.x] # Optional: Test on multiple Node versions
+
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        - name: Setup Node.js
+          uses: actions/setup-node@v4
+          with:
+            node-version: ${{ matrix.node-version }}
+
+        - name: Installing Dependencies
+          run: npm install
+
+        - name: Running jest tests
+          run: npm tests
+    
+
+# References
+# https://github.com/marketplace/actions/checkout
+# https://github.com/marketplace/actions/setup-node-js-environment
